@@ -12,7 +12,7 @@
 ## 🖇 Generating Pyrogram V2 String Session
 
 <p>
-<a href="https://t.me/All_Session_Bot"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
+<a href="https://t.me/All_Session_Bot"><img src="https://img.shields.io/badge/Generate%20On%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a>
 
 
 
